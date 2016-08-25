@@ -1,9 +1,0 @@
-scenes
-simple\box_dist_atten.ray
-simple\sphere_refract.ray
-simple\cylinder_refract.ray
-simple\box_cyl_transp_shadow.ray
-simple\box_cyl_reflect.ray
-trimeshes\box_sphere.ray
-trimeshes\dragon.ray
-trimeshes\sierpinski.ray
